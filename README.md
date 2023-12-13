@@ -50,6 +50,17 @@
 | student_id | идентификатор пользователя |
 | rev | сумма оплаты |
 
+## Использованные технологии
+
+- **Juputer Notebook**
+- **Python**
+- **Pandas**
+- **Numpy**
+- **requests**
+- **scipy**
+- **matplotlib**
+- **seaborn**
+-**urllib**
 
 ## Выводы
 

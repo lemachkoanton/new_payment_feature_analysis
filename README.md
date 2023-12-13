@@ -56,11 +56,11 @@
 - **Python**
 - **Pandas**
 - **Numpy**
-- **requests**
-- **scipy**
-- **matplotlib**
-- **seaborn**
--**urllib**
+- **Requests**
+- **Scipy**
+- **Matplotlib**
+- **Seaborn**
+- **Urllib**
 
 ## Выводы
 
